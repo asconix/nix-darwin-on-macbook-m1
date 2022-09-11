@@ -1,0 +1,10 @@
+#+TITLE:     Fully nixified setup on MacBook M1
+#+SUBTITLE:  Nix, nix-darwin, flakes, home-manager on macOS Monterey (MacBook M1)
+#+AUTHOR:    Christoph Pilka
+#+EMAIL:     (concat "c.pilka" at-sign "asconix.com")
+#+DESCRIPTION: Nix, nix-darwin, flakes, home-manager on macOS Monterey (MacBook M1)
+#+KEYWORDS:  nix, nix-darwin, flakes, home-manager, macbook m1
+#+LANGUAGE:  en
+#+OPTIONS:   H:4 num:nil toc:2 p:t
+
+Fully nixified setup on MacBook M1.
