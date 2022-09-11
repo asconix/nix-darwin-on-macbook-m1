@@ -8,3 +8,15 @@
 #+OPTIONS:   H:4 num:nil toc:2 p:t
 
 Fully nixified setup on MacBook M1.
+
+* Install Nix
+
+#+BEGIN_SRC shell
+curl -L https://nixos.org/nix/install | sh
+#+END_SRC
+
+#+RESULTS:
+
+* Sources of inspiration
+
+https://gist.github.com/jmatsushita/5c50ef14b4b96cb24ae5268dab613050
